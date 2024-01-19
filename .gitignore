@@ -6,10 +6,10 @@
 .venv/
 
 # PyTest
-.pytest_cache/
+**/.pytest_cache/
 
 # Cache
-__pycache___/
+**/__pycache___/
 
 ### Jetbrains ###
 .idea/
