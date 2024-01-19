@@ -9,7 +9,7 @@
 **/.pytest_cache/
 
 # Cache
-**/__pycache___/
+**/__pycache__/
 
 ### Jetbrains ###
 .idea/
