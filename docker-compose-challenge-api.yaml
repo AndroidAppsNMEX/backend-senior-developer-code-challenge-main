@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  challenge_openapi_mock:
+    container_name: challenge_openapi_mock
+    image: muonsoft/openapi-mock
+    volumes:
+    - ./docs/apispecs/challenge-api:/etc/openapi
+    environment:
+      OPENAPI_MOCK_SPECIFICATION_URL: '/etc/openapi/openapi.yaml'
+      OPENAPI_MOCK_USE_EXAMPLES: 'if_present'
+    ports:
+      - "9001:8080"

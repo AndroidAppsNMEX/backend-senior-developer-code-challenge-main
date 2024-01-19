@@ -1,0 +1,72 @@
+[
+    {
+        "away": {
+            "city": "Arizona",
+            "id": "ae5132a4-e4b2-4bda-9933-b75c542b8d35",
+            "nickName": "Arizona Cardinals"
+        },
+        "home": {
+            "city": "Atlanta",
+            "id": "8da0c96d-7b3d-41f3-9e68-29607f3babcf",
+            "nickName": "Atlanta Falcons"
+        },
+        "id": "5055c2a2-af68-4082-9834-ceb36dd0a807",
+        "timestamp": "2023-01-11T14:00:00Z"
+    },
+    {
+        "away": {
+            "city": "Atlanta",
+            "id": "8da0c96d-7b3d-41f3-9e68-29607f3babcf",
+            "nickName": "Atlanta Falcons"
+        },
+        "home": {
+            "city": "Carolina",
+            "id": "9ebdd9c1-b445-4076-afe1-5463cacc9138",
+            "nickName": "Carolina Panthers"
+        },
+        "id": "d9c18865-f89d-41de-a42e-5e4bdc2b305a",
+        "timestamp": "2023-02-28T21:30:00Z"
+    },
+    {
+        "away": {
+            "city": "Chicago",
+            "id": "59a25bfb-e316-42c1-ac75-fc62aa34df48",
+            "nickName": "Chicago Bears"
+        },
+        "home": {
+            "city": "Detroit",
+            "id": "28851743-d1b5-4653-9f25-bda3a386c825",
+            "nickName": "Detroit Lions"
+        },
+        "id": "bf436983-3c42-4e45-893d-3f89d0ef3451",
+        "timestamp": "2023-01-30T16:30:00Z"
+    },
+    {
+        "away": {
+            "city": "Carolina",
+            "id": "9ebdd9c1-b445-4076-afe1-5463cacc9138",
+            "nickName": "Carolina Panthers"
+        },
+        "home": {
+            "city": "Dallas",
+            "id": "2f784ca2-9964-4d95-8d0d-67e553a70c40",
+            "nickName": "Dallas Cowboys"
+        },
+        "id": "7d6e1536-231a-4451-b40a-6bf0bcd2e7c3",
+        "timestamp": "2023-03-08T18:30:00Z"
+    },
+    {
+        "away": {
+            "city": "Dallas",
+            "id": "2f784ca2-9964-4d95-8d0d-67e553a70c40",
+            "nickName": "Dallas Cowboys"
+        },
+        "home": {
+            "city": "Chicago",
+            "id": "59a25bfb-e316-42c1-ac75-fc62aa34df48",
+            "nickName": "Chicago Bears"
+        },
+        "id": "2d98e984-1197-42c5-80a0-083667891f51",
+        "timestamp": "2023-05-24T22:00:00Z"
+    }
+]
